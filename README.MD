@@ -41,8 +41,12 @@ I am a versatile **Fullstack Software Engineer** and an Informatics Engineering 
 
 ### 📈 Engineering Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darul-eng&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darul-eng&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=darul-eng&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=darul-eng&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darul-eng&theme=tokyonight&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 ### 🐍 Contribution Snake
@@ -58,8 +62,4 @@ I am a versatile **Fullstack Software Engineer** and an Informatics Engineering 
 <a href="mailto:darulikhssan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.instagram.com/darulz__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://t.me/drlkhsn"><img src="https://img.shields.io/badge/Telegram-26A8ED?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/darul-eng/darul-eng/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
