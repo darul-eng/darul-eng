@@ -41,12 +41,13 @@ I am a versatile **Fullstack Software Engineer** and an Informatics Engineering 
 
 ### 📈 Engineering Metrics
 <p align="center">
-  <img src="https://github-readme-stats-git-masterhst-p-juran-res-projects.vercel.app/api?username=darul-eng&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-git-masterhst-p-juran-res-projects.vercel.app/api/top-langs/?username=darul-eng&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=darul-eng&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darul-eng&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top Languages" />
 </p>
 
+### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darul-eng&theme=tokyonight&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://raw.githubusercontent.com/darul-eng/darul-eng/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
