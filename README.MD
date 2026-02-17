@@ -46,7 +46,7 @@ I am a versatile **Fullstack Software Engineer** and an Informatics Engineering 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darul-eng&theme=tokyonight&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darul-eng&theme=dracula&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 ### 🐍 Contribution Snake
