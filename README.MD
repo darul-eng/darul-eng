@@ -1,50 +1,81 @@
-<h1 align="left" id="macropower-title">:wave: Hello there!</h1>
+<h1 align="center">🚀 Hi, I'm Darul Ikhsan, S.Kom</h1>
+<p align="center">
+  <b>Fullstack Software Engineer | Backend Enthusiast | Gopher</b>
+</p>
 
-![Version: 09.02.2023](https://img.shields.io/badge/version-25.12.2022-informational)&nbsp;
-[![GitHub: farkhanmaul](https://img.shields.io/github/followers/darul-eng?label=follow&style=social)](https://github.com/darul-eng)&nbsp;
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=darul-eng&label=Profile%20Views&color=61dafb&style=flat-square" alt="views" />
+  <img src="https://img.shields.io/github/followers/darul-eng?label=Followers&style=flat-square&color=61dafb" alt="followers" />
+</p>
 
+---
 
-<table>
-<tr>
-<td align="left">
- :office: &nbsp;I'm currently learning at <b>Hasanuddin University<b>
-<br> :seedling: &nbsp;I’m currently learning <b>Golang<b>
-<br> :speech_balloon: &nbsp;I like to talk about <b>Code<b> and <b>Algorithm<b>
-<br> :mailbox: &nbsp;Ask me anything on my <b>Instagram<b>
-<br> :computer: &nbsp;Connect with me on <b>LinkedIn<b>
-</td>
-<td align="right">
-<a href="#darul-eng-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=darul-eng&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="darul-eng" align="right"/>
-</a>
-</td>
-</tr>
-</table>
+### 👨‍💻 Professional Profile
+I am a **Fullstack Software Engineer** and an Informatics Engineering graduate from **Hasanuddin University**. I specialize in building scalable web applications and efficient backend systems. Currently, I focus on mastering the **Go** ecosystem while maintaining a solid grip on modern frontend technologies.
 
-<table>
+- 🎓 **Graduate**: S1 Teknik Informatika, Universitas Hasanuddin.
+- 🛠️ **Current Focus**: Microservices architecture, API Optimization, and Clean Code.
+- 🏗️ **Architectures**: MVC, Clean Architecture, Repository Pattern.
+- 💬 **Ask me about**: Golang, Gin/Echo, React/Next.js, and SQL Optimization.
+
+---
+
+### 🛠️ Tech Stack & Tools
+<table align="center">
   <tr>
-    <td align="left">
-   <a href="#darul-eng-title">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darul-eng&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="darul-eng" align="left"/>
-    </a>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=go" width="40" height="40" alt="Go" />
+      <br>Go
     </td>
-    <td align="right">
-    <a href="#darul-eng-title">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=darul-eng&theme=react&border=61dafb&hide_border=true" alt="darul-eng" align="right"/>
-    </a>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JS" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TS" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
+      <br>Docker
     </td>
   </tr>
 </table>
 
-<!---
-darul-eng/darul-eng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-## 🤝🏻 Connect with Me!
-[![Email: darulikhssan@gmail.com](https://img.shields.io/badge/-darulikhssan@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:darulikhssan@gmail.com)
-[![LinkedIn: Darul Ikhsan](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/darul-ikhsan/)](https://www.linkedin.com/in/darul-ikhsan/)&nbsp;
-[![Instagram: Follow darulz__](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/darulz__)&nbsp;
-[![Telegram: drlkhsn](https://img.shields.io/badge/-Telegram-grey?style=flat&logo=Telegram&logoColor=white&link=https://t.me/drlkhsn)](https://t.me/drlkhsn)&nbsp;
-[![Twitter: Follow @Darul37315964](https://img.shields.io/twitter/follow/Darul37315964?style=social)](https://twitter.com/Darul37315964)
 ---
+
+### 📈 GitHub Engineering Stats
+<p align="center">
+  <a href="https://github.com/darul-eng">
+    <img src="https://github-readme-stats.vercel.app/api?username=darul-eng&show_icons=true&theme=react&hide_border=true&title_color=61dafb&icon_color=61dafb" width="48%" />
+  </a>
+  <a href="https://github.com/darul-eng">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darul-eng&layout=compact&theme=react&hide_border=true&title_color=61dafb" width="40%" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darul-eng&theme=react-dark&border_radius=10&hide_border=true" width="100%" />
+</p>
+
+---
+
+### 📫 Connect with Me
+<p align="center">
+<a href="https://www.linkedin.com/in/darul-ikhsan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:darulikhssan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.instagram.com/darulz__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://t.me/drlkhsn"><img src="https://img.shields.io/badge/Telegram-26A8ED?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/darul-eng/darul-eng/main/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
