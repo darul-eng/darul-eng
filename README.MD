@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Hi, I'm Darul Ikhsan, S.Kom</h1>
+<h1 align="center">🚀 Hi, I'm Darul Ikhsan</h1>
 <p align="center">
   <b>Fullstack Software Engineer | Backend Specialist | Mobile Developer</b>
 </p>
@@ -24,33 +24,29 @@ I am a versatile **Fullstack Software Engineer** and an Informatics Engineering 
 
 <p align="left">
   <b>Backend:</b><br>
-  <img src="https://skillicons.dev/icons?i=go,nestjs,laravel,nodejs,express,php" />
+  <img src="https://skillicons.dev/icons?i=go,nestjs,laravel,nodejs,express,php" alt="Backend Skills" />
 </p>
 
 <p align="left">
   <b>Frontend & Mobile:</b><br>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,ts,tailwind" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,ts,tailwind" alt="Frontend Skills" />
 </p>
 
 <p align="left">
   <b>Database & DevOps:</b><br>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,githubactions" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,githubactions" alt="Database Skills" />
 </p>
 
 ---
 
 ### 📈 Engineering Metrics
 <p align="center">
-  <a href="https://github.com/darul-eng">
-    <img src="https://github-readme-stats.vercel.app/api?username=darul-eng&show_icons=true&theme=react&hide_border=true&title_color=61dafb&icon_color=61dafb" width="48%" />
-  </a>
-  <a href="https://github.com/darul-eng">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darul-eng&layout=compact&theme=react&hide_border=true&title_color=61dafb" width="40%" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=darul-eng&show_icons=true&theme=react&hide_border=true&title_color=61dafb&icon_color=61dafb" width="48%" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darul-eng&layout=compact&theme=react&hide_border=true&title_color=61dafb" width="40%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darul-eng&theme=react-dark&border_radius=10&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darul-eng&theme=react-dark&border_radius=10&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 ---
@@ -64,5 +60,5 @@ I am a versatile **Fullstack Software Engineer** and an Informatics Engineering 
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/darul-eng/darul-eng/main/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/darul-eng/darul-eng/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
