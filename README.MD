@@ -41,12 +41,12 @@ I am a versatile **Fullstack Software Engineer** and an Informatics Engineering 
 
 ### 📈 Engineering Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darul-eng&show_icons=true&theme=react&hide_border=true&title_color=61dafb&icon_color=61dafb" width="48%" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darul-eng&layout=compact&theme=react&hide_border=true&title_color=61dafb" width="40%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=darul-eng&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darul-eng&layout=compact&theme=radical&hide_border=true" width="40%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darul-eng&theme=react-dark&border_radius=10&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darul-eng&theme=react-dark&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 ---
