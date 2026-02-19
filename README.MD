@@ -54,10 +54,18 @@ I am a versatile **Fullstack Software Engineer** and an Informatics Engineering 
   <img src="https://raw.githubusercontent.com/darul-eng/darul-eng/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
-### 🦊 My GitLab Activity
+### 🦊 Professional Activity (GitLab)
 <p align="center">
-  <img src="https://gitlab-activity-mask.vercel.app/api?username=USERNAME_GITLAB_KAMU&theme=dark&color=blue" alt="GitLab Activity" />
+  <a href="https://gitlab.com/USERNAME_KAMU">
+    <img src="https://img.shields.io/badge/GitLab-Active_Developer-orange?style=for-the-badge&logo=gitlab" alt="GitLab Status" />
+  </a>
 </p>
+
+<p align="center">
+  <img src="https://v-readme-stats.vercel.app/api/link?url=https://gitlab.com/USERNAME_KAMU&label=GitLab%20Contributions&color=2980b9&style=flat-square" alt="GitLab" />
+</p>
+
+> **Note:** Sebagian besar aktivitas profesional saya dilakukan di GitLab (Private Enterprise). Grafik kontribusi di atas mencerminkan produktivitas harian saya dalam membangun sistem skala besar.
 
 ---
 
