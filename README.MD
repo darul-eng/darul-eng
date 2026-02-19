@@ -54,6 +54,11 @@ I am a versatile **Fullstack Software Engineer** and an Informatics Engineering 
   <img src="https://raw.githubusercontent.com/darul-eng/darul-eng/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
+### 🦊 GitLab Metrics
+<p align="center">
+  <img src="https://gitlab-readme-stats.vercel.app/api?username=darulikhssan&show_icons=true&theme=dracula" alt="GitLab Stats" />
+</p>
+
 ---
 
 ### 🤝 Connect with Me
